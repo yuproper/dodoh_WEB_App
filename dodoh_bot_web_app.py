@@ -14,5 +14,8 @@ def send_welcome(message):
     bot.send_message(message.chat.id, "Нажмите кнопку ниже, чтобы открыть менеджер паролей.", reply_markup=markup)
 
 bot.polling()
-
+"""
 Добавим 1
+
+А добавим мы 3
+"""
